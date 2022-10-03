@@ -1,0 +1,40 @@
+body{
+    background-color: lightskyblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: deeppink;
+}
+.first{
+    background-color: aliceblue;
+}
+.second{
+    background-color:aliceblue;
+}
+sup{
+    color:red;
+}
+sub{
+    color:orange;
+}
+table{
+    width: 100%;
+}
+.nechet{
+background-color: red;
+}   
+.chet{
+    background-color: blue;
+}
+.one{
+    background-color: aqua;
+    font-size: 15px;
+}
+.two{
+    background-color: blueviolet;
+    font-size: 30px;
+}
+.three{
+    background-color: cadetblue;
+    font-size: 45px;
+}
